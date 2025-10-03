@@ -1,0 +1,25 @@
+.container{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.abc{
+    border: 1px solid black;
+    height: 50%;
+    box-sizing: border-box;
+}
+/* .abc:hover{
+    background-color: aqua;
+}*/
+a:link {
+  color: #FF0000;
+}
+
+/* visited link
+a:visited {
+  color: #00FF00;
+} */
+.btn:active{
+    background-color: #ff0095;
+}
